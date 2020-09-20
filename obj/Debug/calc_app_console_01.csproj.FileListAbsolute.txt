@@ -1,0 +1,7 @@
+F:\C# apps\C# _GSD\c#_for_designer\Ex_01\calc_app_console_01\calc_app_console_01\bin\Debug\calc_app_console_01.exe.config
+F:\C# apps\C# _GSD\c#_for_designer\Ex_01\calc_app_console_01\calc_app_console_01\bin\Debug\calc_app_console_01.exe
+F:\C# apps\C# _GSD\c#_for_designer\Ex_01\calc_app_console_01\calc_app_console_01\bin\Debug\calc_app_console_01.pdb
+F:\C# apps\C# _GSD\c#_for_designer\Ex_01\calc_app_console_01\calc_app_console_01\obj\Debug\calc_app_console_01.csprojAssemblyReference.cache
+F:\C# apps\C# _GSD\c#_for_designer\Ex_01\calc_app_console_01\calc_app_console_01\obj\Debug\calc_app_console_01.csproj.CoreCompileInputs.cache
+F:\C# apps\C# _GSD\c#_for_designer\Ex_01\calc_app_console_01\calc_app_console_01\obj\Debug\calc_app_console_01.exe
+F:\C# apps\C# _GSD\c#_for_designer\Ex_01\calc_app_console_01\calc_app_console_01\obj\Debug\calc_app_console_01.pdb

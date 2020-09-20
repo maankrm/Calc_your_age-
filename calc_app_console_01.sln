@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calc_app_console_01", "calc_app_console_01\calc_app_console_01.csproj", "{318CDEA7-9F4F-4D94-85C1-5ED3902BE0CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{318CDEA7-9F4F-4D94-85C1-5ED3902BE0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318CDEA7-9F4F-4D94-85C1-5ED3902BE0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318CDEA7-9F4F-4D94-85C1-5ED3902BE0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318CDEA7-9F4F-4D94-85C1-5ED3902BE0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {754A1F83-9297-484D-8BE7-90A87E1BF2D5}
+	EndGlobalSection
+EndGlobal
